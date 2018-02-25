@@ -1,3 +1,10 @@
+theme: jekyll-theme-cayman
+title: Welcome to my portfolio!
+description: Please bookmark this page to see project updates and new content
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/wadejc/wadejc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
